@@ -6503,14 +6503,14 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: $blue !important;
+  background-color: $primary !important;
 }
 
 a.bg-primary:hover,
 a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #4c69ba !important;
+  background-color: $indigo !important;
 }
 
 .bg-secondary {
