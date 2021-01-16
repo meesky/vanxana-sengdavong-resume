@@ -1,6 +1,6 @@
 /*!
  * VAXNANA SENGDAVONG - Resume v5.0.7 (https://startbootstrap.com/template-overviews/resume)
- * Copyright 2020-2020 Mee sengdavong
+ * Copyright 2020-2021 Mee sengdavong
  * Licensed under MIT (https://github.com/BlackrockDigital/mee-resume/blob/master/LICENSE)
  */
 
