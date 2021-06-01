@@ -1,1 +1,2 @@
-# mee-resume.github.io
+# mee-resume.github.com
+https://meesky.github.io/mee-resume/
