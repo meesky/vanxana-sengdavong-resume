@@ -11433,3 +11433,8 @@ section .resume-section {
 section .resume-section .resume-section-content {
   width: 100%;
 }
+
+section .summary {
+  line-height: 36px;
+  font-size: 17px;
+}
