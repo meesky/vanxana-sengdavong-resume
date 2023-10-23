@@ -1,2 +1,2 @@
-# mee-resume.github.com
-https://meesky.github.io/mee-resume/
+# meesky.github.com
+https://meesky.github.io/vanxana-sengdavong-resume/
